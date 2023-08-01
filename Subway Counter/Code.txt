@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="Style.css">
+    </head>
+    <body>
+        <h1>People entered:</h1>
+        <h2 id="count">0</h2>
+    </body>
+    <script src="logic_code.js"></script>
+</html>
+
+
+
+----------------------------------------------------
+
+// document.getElementById("count").innerText = 7
+
+
+let batch1 = 5
+let batch2 = 4 
+let batch3 = 7
+
+let  count = batch1 + batch2 + batch3
+console.log(count) // to  check our code 
+
+
+let myage = 20
+let human_dog_ratio = myage * 7 
+
+console.log(human_dog_ratio)
+
+let count = 5 
+count = count + 3 
+console.log(count)
+
+let bonus_point = 50
+console.log(bonus_point)
+
+bonus_point = bonus_point + 50
+console.log(bonus_point)
+
+bonus_point = bonus_point - 75
+console.log(bonus_point)
+
+bonus_point = bonus_point + 45
+console.log(bonus_point)
+
